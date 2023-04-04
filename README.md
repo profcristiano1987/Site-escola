@@ -1,2 +1,2 @@
-# Concurso-Agrinho
-Repositório de Projeto do Concurso Agrinho Edutech 2022.
+Site do Colégio Estadual Olavo Bilac - Amaporã PR
+Repositório de atualização do Site do Colégio Olavo Bilac - E.F.M 
